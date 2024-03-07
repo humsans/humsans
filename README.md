@@ -4,7 +4,7 @@ Selamat datang di profil GitHub saya! Saya seorang mahasiswa Politeknik Negeri B
 
 Saya berasal dari Kota Padang, Sumatera Barat. Saya berminat dalam bidang teknologi, sehingga minat tersebut membawa saya untuk berkuliah di JTK Polban. Semoga saya bisa menjadi seorang Full Stack Developer.
 
-<img src='aslim.jpg' width='250' height='250'>
+
 
 ## Biodata
 - Muhammad Aslim Salman
